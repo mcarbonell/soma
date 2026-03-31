@@ -14,6 +14,7 @@ authors:
 version: 11.0.0
 date-released: 2026-03-31
 url: "https://github.com/mcarbonell/soma"
+doi: "10.5281/zenodo.19354872"
 license: MIT
 keywords:
   - "ai-agents"

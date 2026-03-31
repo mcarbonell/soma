@@ -1,5 +1,6 @@
 # SOMA: Sovereign Operative Memory Architecture
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19354872.svg)](https://doi.org/10.5281/zenodo.19354872)
 [![arXiv](https://img.shields.io/badge/arXiv-2603.XXXXX-brightgreen.svg)](https://arxiv.org/abs/2603.XXXXX)
 [![npm](https://img.shields.io/npm/v/soma-lite.svg)](https://www.npmjs.com/package/soma-lite)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
