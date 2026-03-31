@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SOMA: Sovereign Operative Memory Architecture"
+abstract: >
+  A cognitive operating system for long-horizon autonomous agents.
+  This paper introduces SOMA, a four-layer cognitive architecture that 
+  separates bounded working attention, immutable episodic traces, 
+  sovereign persistent knowledge, and environment grounding.
+authors:
+  - family-names: "Carbonell Martínez"
+    given-names: "Mario Raúl"
+    orcid: "0009-0004-6731-9875"
+    email: "mrcm.10@outlook.es"
+version: 11.0.0
+date-released: 2026-03-31
+url: "https://github.com/mcarbonell/soma"
+license: MIT
+keywords:
+  - "ai-agents"
+  - "cognitive-architecture"
+  - "memory-management"
+  - "long-context"
+  - "autonomous-agents"
+  - "context-management"
+repository-code: "https://github.com/mcarbonell/soma"
+repository: "https://github.com/mcarbonell/soma"
+references:
+  - type: article
+    title: "MemGPT: Towards LLMs as Operating Systems"
+    authors:
+      - family-names: "Packer"
+        given-names: "Charles"
+      - family-names: "Fang"
+        given-names: "Vivian"
+      - family-names: "Patil"
+        given-names: "Shishir G."
+      - family-names: "Lin"
+        given-names: "Kevin"
+      - family-names: "Wooders"
+        given-names: "Sarah"
+      - family-names: "Gonzalez"
+        given-names: "Joseph E."
+    journal: "arXiv preprint arXiv:2310.08560"
+    year: 2023
+  - type: article
+    title: "ReAct: Synergizing Reasoning and Acting in Language Models"
+    authors:
+      - family-names: "Yao"
+        given-names: "Shunyu"
+      - et-al: true
+    journal: "arXiv preprint arXiv:2210.03629"
+    year: 2023
+  - type: article
+    title: "Voyager: An Open-Ended Embodied Agent with Large Language Models"
+    authors:
+      - family-names: "Wang"
+        given-names: "Guanzhi"
+      - et-al: true
+    journal: "arXiv preprint arXiv:2305.16291"
+    year: 2023
