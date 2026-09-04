@@ -1,7 +1,6 @@
 # SOMA: Sovereign Operative Memory Architecture
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19354872.svg)](https://doi.org/10.5281/zenodo.19354872)
-[![arXiv](https://img.shields.io/badge/arXiv-2603.XXXXX-brightgreen.svg)](https://arxiv.org/abs/2603.XXXXX)
 [![npm](https://img.shields.io/npm/v/soma-lite.svg)](https://www.npmjs.com/package/soma-lite)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -152,18 +151,22 @@ Please open an issue before starting a PR to discuss scope and design.
 
 **Mario Raúl Carbonell Martínez**  
 - GitHub: [@mcarbonell](https://github.com/mcarbonell)
-- Email: mrcm.10@outlook.es
+- Email: marioraulcarbonell@gmail.com
 
 ## 📬 Citation
 
 If you use SOMA in your research, please cite:
 
 ```bibtex
-@article{carbonell2026soma,
-  title={SOMA: Sovereign Operative Memory Architecture},
-  author={Carbonell Mart{\'i}nez, Mario Ra{\'u}l},
-  journal={arXiv preprint arXiv:2603.XXXXX},
-  year={2026}
+@software{carbonell2026soma,
+  author       = {Carbonell Mart{\'i}nez, Mario Ra{\'u}l},
+  title        = {SOMA: Sovereign Operating Memory Architecture},
+  month        = mar,
+  year         = {2026},
+  publisher    = {Zenodo},
+  version      = {v1},
+  doi          = {10.5281/zenodo.19354872},
+  url          = {https://doi.org/10.5281/zenodo.19354872}
 }
 ```
 
