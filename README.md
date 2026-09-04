@@ -1,4 +1,4 @@
-# SOMA: Sovereign Operative Memory Architecture
+# SOMA: Sovereign Operating Memory Architecture
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19354872.svg)](https://doi.org/10.5281/zenodo.19354872)
 [![npm](https://img.shields.io/npm/v/soma-lite.svg)](https://www.npmjs.com/package/soma-lite)
@@ -10,7 +10,7 @@
 
 ## 📖 Overview
 
-SOMA (Sovereign Operative Memory Architecture) is a four-layer cognitive architecture 
+SOMA (Sovereign Operating Memory Architecture) is a four-layer cognitive architecture 
 for autonomous agents that enables long-horizon task completion through:
 
 - **L1**: Bounded working attention with explicit context management
